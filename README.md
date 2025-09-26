@@ -30,12 +30,12 @@ This project is inspired by **DGTAF (Dynamic Generative Talent Assessment Framew
 
 ---
 
-## Code
+##  Code
 Come soon.  
 
 ---
 
-## 📌 Reference
+##  Reference
 Chen, X., Liu, C., Zhang, C., Zhao, X., Zhao, B., Wang, Y., Chang, J., He, S., Guo, J.  
 *University-Oriented Multidimensional Talent Profiling via LLMs and Diffusion Models*. Tianjin Normal University & Linyi University, 2025.  
 
